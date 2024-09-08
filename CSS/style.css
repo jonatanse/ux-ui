@@ -441,8 +441,13 @@ section.contacto.full-screen a:hover {
         margin-top: 10px;
     }
 
+    section.servicios {
+        height: 100%;
+        position: relative;
+    }
+
     section.servicios figure img {
-        width: 40%;
+        width: 50%;
     }
 
     section.contacto.full-screen a {
@@ -451,12 +456,12 @@ section.contacto.full-screen a:hover {
     }
 
     h1 {
-        font-size: 40px;
+        font-size: 5vw;
     }
 
     h2 {
         font-size: 30px;
-    } 
+    }
 
     nav ul {
         display: none;
