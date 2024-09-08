@@ -442,7 +442,7 @@ section.contacto.full-screen a:hover {
     }
 
     section.servicios figure img {
-        width: 50%;
+        width: 40%;
     }
 
     section.contacto.full-screen a {
@@ -450,13 +450,13 @@ section.contacto.full-screen a:hover {
         flex-direction: column;
     }
 
-    /* h1 {
-        font-size: 50px;
+    h1 {
+        font-size: 40px;
     }
 
     h2 {
         font-size: 30px;
-    } */
+    } 
 
     nav ul {
         display: none;
